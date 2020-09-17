@@ -54,4 +54,4 @@ a3 | b3 | c3
 ## Adding Links
 This link to [GitHub Markdown Reference](https://guides.github.com/features/mastering-markdown/) was created using the following syntax
 ## Adding an image from web
-![Alt text](https://vignette.wikia.nocookie.net/spongebob/images/3/3e/Bold_and_Brash.png/revision/latest?cb=20200830120340)
+![Alt text](https://www.conncoll.edu/media/website-media/visualidentity/images/Seal-Color.jpg)
